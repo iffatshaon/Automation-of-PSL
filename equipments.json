@@ -1,0 +1,8 @@
+{
+    "workcell_1": ["O", "V", "A", "K", "B", "U", "J", "G"],
+    "workcell_2": ["A", "K", "V", "B", "H", "D", "S"],
+    "workcell_3": ["V", "M", "B", "W", "U", "O", "K", "G", "A", "D", "S"],
+    "workcell_4": ["E", "T", "O", "A", "L", "Q", "K", "C", "M", "J", "U"],
+    "workcell_5": ["O", "K", "R", "V", "N", "J", "B", "L", "S"],
+    "workcell_6": ["K", "M", "F", "Q", "A", "V", "U", "N", "O"]
+}

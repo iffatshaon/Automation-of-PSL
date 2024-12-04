@@ -1,0 +1,7 @@
+,workcell_1,workcell_2,workcell_3,workcell_4,workcell_5,workcell_6
+workcell_1,0,10,15,20,25,30
+workcell_2,10,0,35,25,20,15
+workcell_3,15,35,0,30,10,20
+workcell_4,20,25,30,0,15,10
+workcell_5,25,20,10,15,0,5
+workcell_6,30,15,20,10,5,0
